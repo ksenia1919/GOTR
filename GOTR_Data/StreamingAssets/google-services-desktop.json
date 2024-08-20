@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "500416503729",
+    "firebase_url": "https://dbgoat-fa37a-default-rtdb.firebaseio.com",
+    "project_id": "dbgoat-fa37a",
+    "storage_bucket": "dbgoat-fa37a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500416503729:android:2166c0b4ed33e5492a6790",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.GOTR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500416503729-leqm2ctinp405d5t98gmncd9g8llrvqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL-HvFXOuJIrm5j6bOLoRybw07vUsJONE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500416503729-leqm2ctinp405d5t98gmncd9g8llrvqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
